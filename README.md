@@ -165,7 +165,7 @@ Created an interactive dashboard including:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Satyasingh01<img width="1331" height="721" alt="Dashboard_Customer_behavior" src="https://github.com/Satyasingh01/Customer-Trend-Data-Analysis.git" />
+git clone https://github.com/Satyasingh01/Customer-Trend-Data-Analysis.git" 
 
 ```
 
