@@ -155,14 +155,7 @@ Created an interactive dashboard including:
 
 ---
 
-# 📷 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
-
-Example:
-
-```
-images/dashboard.png
 ```
 
 ---
@@ -172,8 +165,8 @@ images/dashboard.png
 ### Clone Repository
 
 ```bash
-[git clone https://github.com/Satyasingh01<img width="1331" height="721" alt="Dashboard_Customer_behavior" src="https://github.com/user-attachments/assets/165c2e0f-fe57-497e-8144-5922ee8707c3" />
-/customer-trends-data-analysis-SQL-Python-PowerBI.git](https://github.com/Satyasingh01/Customer-Trend-Data-Analysis.git)
+git clone https://github.com/Satyasingh01<img width="1331" height="721" alt="Dashboard_Customer_behavior" src="https://github.com/Satyasingh01/Customer-Trend-Data-Analysis.git" />
+
 ```
 
 ### Open Jupyter Notebook
